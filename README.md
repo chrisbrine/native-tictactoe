@@ -1,4 +1,6 @@
-This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
+# React Native Tic Tac Toe
+
+This is a react native version of tic tac toe that just works.
 
 # Getting Started
 
